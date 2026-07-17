@@ -8,7 +8,7 @@ I like building things that are hard on purpose: systems where the interesting p
 
 ## 🔐 Featured: Privacy-Preserving Systems
 
-### [EncryptedHealthLedger](https://github.com/PoorProgrammer0A33/EncryptedHealthLedger)
+### [EncryptedHealthLedger](https://github.com/PoorProgrammer0A33/Encrypted-Health-Ledger)
 Homomorphic encryption pipeline (CKKS via Microsoft SEAL) computing aggregate health statistics — the server never holds a decryption key, ever. Client generates its own keys and is the only party that can decrypt. Real-time stat broadcasting via SignalR, tamper-evident audit logging via Oracle 26ai Blockchain Tables.
 `C#` `.NET 8` `Microsoft SEAL` `SignalR` `Oracle Database`
 
@@ -43,4 +43,4 @@ Linear regression, logistic regression (gradient descent from scratch), and Maha
 
 ---
 
-💼 [LinkedIn] (www.linkedin.com/in/mendez-joshua-oxales)
+💼 [LinkedIn](www.linkedin.com/in/mendez-joshua-oxales)
