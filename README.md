@@ -43,4 +43,4 @@ Linear regression, logistic regression (gradient descent from scratch), and Maha
 
 ---
 
-💼 [LinkedIn] www.linkedin.com/in/mendez-joshua-oxales
+💼 [LinkedIn] (www.linkedin.com/in/mendez-joshua-oxales)
