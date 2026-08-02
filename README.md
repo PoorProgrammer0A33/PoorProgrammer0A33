@@ -35,7 +35,7 @@ Linear regression, logistic regression (gradient descent from scratch), and Maha
 
 ## 🛠️ Skills
 
-**Languages:** Python, C#, JavaScript, PHP, SQL
+**Languages:** Python, C#, JavaScript, PHP, SQL, C++, Java
 
 **Backend:** FastAPI, ASP.NET Core, .NET MAUI, SignalR, Entity Framework Core, SQLAlchemy
 
