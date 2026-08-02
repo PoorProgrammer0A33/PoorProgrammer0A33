@@ -36,9 +36,13 @@ Linear regression, logistic regression (gradient descent from scratch), and Maha
 ## 🛠️ Skills
 
 **Languages:** Python, C#, JavaScript, PHP, SQL
+
 **Backend:** FastAPI, ASP.NET Core, .NET MAUI, SignalR, Entity Framework Core, SQLAlchemy
+
 **Applied Cryptography & Optimization:** Zero-Knowledge Proofs (Circom, SnarkJS, Groth16), Homomorphic Encryption (CKKS, Microsoft SEAL), Ant Colony Optimization
+
 **Databases:** PostgreSQL, Oracle Database (26ai Blockchain Tables), Alembic
+
 **Tools:** Git, Docker, Postman, JWT Auth, REST APIs
 
 ---
