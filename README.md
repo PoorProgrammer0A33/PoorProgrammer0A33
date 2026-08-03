@@ -16,6 +16,10 @@ Homomorphic encryption pipeline (CKKS via Microsoft SEAL) computing aggregate he
 Zero-knowledge scholarship eligibility system — proves a student's income is below a threshold *without revealing the income itself*, to anyone. Circom + Groth16 circuit, Poseidon hashing, Oracle blockchain-table audit trail.
 `Circom` `SnarkJS` `Groth16` `Node.js` `Oracle Database`
 
+### [PrivacyMesh](https://github.com/PoorProgrammer0A33/privacymesh)
+Federated learning platform where clients train locally and share only homomorphically-encrypted gradients — the aggregator sums/averages ciphertexts directly and is structurally unable to decrypt anything, proven via deliberate decrypt-attempt tests. Multi-round training with verified convergence, deployed and tested across independently networked environments (native Windows + WSL2), with a live FastAPI dashboard.
+`Python` `PyTorch` `TenSEAL (CKKS)` `gRPC` `Docker` `FastAPI`
+
 ### MediProof — *in progress, pending academic defense*
 ZKP-based medical credential verification system extending the same circuit architecture as LihimSuri into healthcare. Six-project .NET architecture (API, MAUI, Razor Pages admin). Repository private until capstone defense clears.
 
